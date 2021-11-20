@@ -27,7 +27,7 @@ DeFi: AVAX, LINK, UNI, COMP, LUNA, ALGO, MATIC
 
 Using the exchanges KuCoin and Binance, we used the past six months of prices of each of these coins to track the movement of the index over those six months and turned the data into a percent return, which was the data that we plotted for our analysis.
 
-Our basic hypothesis was that the ETFs would follow the index over the six month period analyzed. 
+Our basic hypothesis was that the ETFs would follow the index over the six month period analyzed and that the index and three ETFs would finish the period of analysis with an return on investment within 50% of one another. 
 
 ---
 
@@ -85,7 +85,7 @@ Volume Correlation Matrix
 
 The top chart displays an overlay of the returns of the base index and three ETFs and the bottom chart displays an overlay of the daily trading volume of the base index and three ETFs.  As one can clearly see, the Meme and Gaming ETF greatly outperformed the not only the Financial and Defi ETFs, but the base index as well. While the base index basically finished the period of analysis at neither a loss or gain, the value of the Meme and Gaming ETF increased by about 450%. The value of the DeFi ETF decreased by about 40%, and the value of the Financial ETF decreased by almost 50%. The display of the trading volume of the coins in these ETFs is also interesting as we can see by the chart that there was very high volume of the DeFi ETF during the drop in May and the down month in June, depicting a lot of selling. Additionally, while the Meme and Gaming ETF vastly outperformed the other funds in the analysis, it had the lowest trading volume throughout the analysis. 
 
-The first matrix shows the correlation between the returns of indexes and the ETFs. This shows a strong correlation between the index and the Meme/Gaming ETF while it shows very little correlation between the index and Financial and DeFi ETFs as well as little correlation between the ETFs themselves. The second matrix shows the correlation between the volume of the indexes and ETFs. We can see there exists a strong correlation between the volume of the index and the Financial and DeFi ETFs. In the end, our hypothesis that each ETF would follow the general trend of the market during this six month period was invalidated, as the Meme and Gaming ETF performed much better, while the Financial and DeFi ETFs performed much worse.
+The first matrix shows the correlation between the returns of indexes and the ETFs. This shows a strong correlation between the index and the Meme/Gaming ETF while it shows very little correlation between the index and Financial and DeFi ETFs as well as little correlation between the ETFs themselves. The second matrix shows the correlation between the volume of the indexes and ETFs. We can see there exists a strong correlation between the volume of the index and the Financial and DeFi ETFs. In the end, our hypothesis that each ETF would follow the general trend of the market and have a return on investment within 50% of one another during this six month period was invalidated, as the Meme and Gaming ETF performed much better than the index, while the Financial and DeFi ETFs performed much worse.
 
 
 

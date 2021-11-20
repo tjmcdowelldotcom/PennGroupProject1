@@ -65,11 +65,19 @@ The value of the DeFi ETF began around $13 at the start of our analysis and decl
 
 ## Conclusion - Index and ETF Comparison
 
+Returns Overlay
+
 ![AllReturns](All_Norm_Plot.png)
+
+Volume Overlay
 
 ![AllVolume](All_Vol.png)
 
+Returns Correlation Matrix
+
 ![ReturnCorr](Return_Correlation.png)
+
+Volume Correlation Matrix
 
 ![VolumeCorr](Volume_Correlation.jpg)
 
